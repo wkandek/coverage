@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE ASSET_GROUP_LIST SYSTEM "https://qualysapi.qualys.com/asset_group_list.dtd">
+<!-- This report was generated with an evaluation version of QualysGuard //--> 
+<ASSET_GROUP_LIST>
+  <ASSET_GROUP>
+    <ID>312200</ID>
+    <TITLE><![CDATA[All Windows machines]]></TITLE>
+    <SCANIPS>
+      <IP>10.1.1.1-10.10.255.255</IP>
+    </SCANIPS>
+    <BUSINESS_IMPACT>
+      <RANK>4</RANK>
+      <IMPACT_TITLE><![CDATA[High]]></IMPACT_TITLE>
+    </BUSINESS_IMPACT>
+    <CVSS_ENVIRO_CDP><![CDATA[High]]></CVSS_ENVIRO_CDP>
+    <CVSS_ENVIRO_TD><![CDATA[High]]></CVSS_ENVIRO_TD>
+    <CVSS_ENVIRO_CR><![CDATA[High]]></CVSS_ENVIRO_CR>
+    <CVSS_ENVIRO_IR><![CDATA[High]]></CVSS_ENVIRO_IR>
+    <CVSS_ENVIRO_AR><![CDATA[High]]></CVSS_ENVIRO_AR>
+    <LAST_UPDATE>2008-04-06T03:38:35Z</LAST_UPDATE>
+  </ASSET_GROUP>
+</ASSET_GROUP_LIST>
+<!-- Generated for username="q_sp" date="2012-11-26T23:47:20Z" -->
+<!-- This report was generated with an evaluation version of QualysGuard //--> 
+<!-- CONFIDENTIAL AND PROPRIETARY INFORMATION. Qualys provides the QualysGuard Service "As Is," without any warranty of any kind. Qualys makes no warranty that the information contained in this report is complete or error-free. Copyright 2012, Qualys, Inc. //--> 
