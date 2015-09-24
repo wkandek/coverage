@@ -23,11 +23,11 @@ Example: (works with the simple_ag and simple_sh files)
 
 <pre><code>
 &lt;COVERAGECONFIG&gt;
-&lt;URL&gt;qualysapi.qualys.com&lt;/URL&rt;
-&lt;USERNAME&gt;q_sp&lt;/USERNAME&rt;
-&lt;PASSWORD&gt;xxx&lt;/PASSWORD&rt;
+&lt;URL&gt;qualysapi.qualys.com&lt;/URL&gt;
+&lt;USERNAME&gt;q_sp&lt;/USERNAME&gt;
+&lt;PASSWORD&gt;xxx&lt;/PASSWORD&gt;
 &lt;AGLIST&gt;
-  &lt;AG scansla="3000" op="All Windows machines" &gt;Ops&lt;/AG&rt;
+  &lt;AG scansla="3000" op="All Windows machines" &gt;Ops&lt;/AG&gt;
 &lt;/AGLIST&gt;
 &lt;/COVERAGECONFIG&gt;
 </code></pre>
