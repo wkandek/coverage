@@ -21,7 +21,7 @@ Useful commandline: rm coverage.log ; perl coverage.pl --nodownload --verbose --
 
 Example: (works with the simple_ag and simple_sh files)
 
-<myxml>
+<pre><code>
 <COVERAGECONFIG>
 <URL>qualysapi.qualys.com</URL>
 <USERNAME>q_sp</USERNAME>
@@ -30,4 +30,4 @@ Example: (works with the simple_ag and simple_sh files)
   <AG scansla="3000" op="All Windows machines" >Ops</AG>
 </AGLIST>
 </COVERAGECONFIG>
-</myxml>
+</code></pre>
