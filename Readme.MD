@@ -22,12 +22,12 @@ Useful commandline: rm coverage.log ; perl coverage.pl --nodownload --verbose --
 Example: (works with the simple_ag and simple_sh files)
 
 <pre><code>
-<COVERAGECONFIG>
-<URL>qualysapi.qualys.com</URL>
-<USERNAME>q_sp</USERNAME>
-<PASSWORD>xxx</PASSWORD>
-<AGLIST>
-  <AG scansla="3000" op="All Windows machines" >Ops</AG>
-</AGLIST>
-</COVERAGECONFIG>
+&lt;COVERAGECONFIG&gt;
+&lt;URL&gt;qualysapi.qualys.com&lt;/URL&rt;
+&lt;USERNAME&gt;q_sp&lt;/USERNAME&rt;
+&lt;PASSWORD&gt;xxx&lt;/PASSWORD&rt;
+&lt;AGLIST&gt;
+  &lt;AG scansla="3000" op="All Windows machines" &gt;Ops&lt;/AG&rt;
+&lt;/AGLIST&gt;
+&lt;/COVERAGECONFIG&gt;
 </code></pre>
