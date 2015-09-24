@@ -17,7 +17,7 @@ Take a look at simple_ag.xml and simple_sh.xml for very short example files.
 
 In coverage.conf one specifies the AG, the SLA in days and the Option Profile that one is intersted in.
 
-Useful commandline: rm coverage.log ; perl coverage.pl --nodownload --verbose --debug
+Useful commandline: rm coverage.log ; touch coverage.log ; perl coverage.pl --nodownload --verbose --debug
 
 Example: (works with the simple_ag and simple_sh files)
 
